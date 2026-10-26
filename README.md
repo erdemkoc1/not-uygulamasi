@@ -1,1 +1,1 @@
-Geliştirici: Erdem (main versiyonu)
+Geliştirici: Erdem (main ve feature sürümleri birleştirildi)
