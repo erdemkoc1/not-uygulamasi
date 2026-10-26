@@ -10,3 +10,4 @@ git status - shows changes
 git add - stage a file
 git commit -m - save snapshot
 git log --oneline -  compact history 
+# Hafta 2 Git notlari tamamlandi.
